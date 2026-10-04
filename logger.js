@@ -10,3 +10,4 @@ function logMessage(message) {
     }
   });
 }
+module.exports = logMessage;
